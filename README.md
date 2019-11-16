@@ -1,1 +1,3 @@
 # bootcamp
+
+Beginning html setup.
